@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+arayuz*.png
+verify.log
+
+# kisisel veri iceren yerel dosyalar
+gercek-dosyalar.txt
+teshis-cikti.txt
+kanit-*.png
+fmj-simge.png
+*.pdf
